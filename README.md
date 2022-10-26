@@ -41,6 +41,12 @@ Features we will be implementing:-
 12. Badges and rewards when user completes tasks
 13. Reminder notifications to complete tasks
 
+YOUR INNOVATION-
+1.Time-to-time quizzes and regular assignment allotment.
+2.User will be able to add some e books and other study material in his account
+Like add to cart.
+3.Payment gateway option.
+
 
 Tech Stack  :- 
 HTML
