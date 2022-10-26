@@ -1,6 +1,6 @@
 # NLHC-3
 
-NNODEV2k22 - Abstract Submission 
+INNODEV2k22 - Abstract Submission 
                                      Team: NLHC-3 
                                      
                                      
@@ -14,7 +14,7 @@ Team members Name:
 
 Problem Statement :- DORA’S STUDY GROUP 
 
-Project Name- DESKSKUL
+Project Name- EdGuru
 
 Features we will be implementing:-
 
