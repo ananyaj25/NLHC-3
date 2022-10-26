@@ -14,7 +14,7 @@ Team members Name:
 
 Problem Statement :- DORA’S STUDY GROUP 
 
-Project Name- DESKSKUL
+Project Name- edGuru
 
 Features we will be implementing:-
 
